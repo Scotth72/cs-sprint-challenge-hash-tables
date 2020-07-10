@@ -3,6 +3,9 @@ def has_negatives(a):
     YOUR CODE HERE
     """
     # Your code here
+    pos_cache = {}
+    neg_cache = {}
+    result = []
 
     return result
 
